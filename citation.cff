@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Saya-ang
+    given-names: Kenth
+title: "Bidirectional Encoder Representation from Transformer Tagalog Part of Speech Tagger"
+version: 0.9
+date-released: 2024
