@@ -1,8 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: >-
+  Bidirectional Encoder Representation from Transformer
+  Tagalog Part of Speech Tagger
+message: 'If you use this software, please cite it as below.'
+type: software
 authors:
-  - family-names: Saya-ang
-    given-names: Kenth
-title: "Bidirectional Encoder Representation from Transformer Tagalog Part of Speech Tagger"
-version: 0.9
-date-released: 2024
+  - given-names: Kenth
+    family-names: Saya-ang
+    email: gargarkenth93@gmail.com
+  - given-names: Mary Grizelle
+    family-names: Hamor
+  - given-names: Denise Julianne
+    family-names: Gozum
+  - given-names: Ria Karen
+    family-names: Mabansag
+repository-code: 'https://github.com/syke9p3/bert-tagalog-pos-tagger'
+abstract: >-
+  This model addresses the need for an efficient and
+  accurate Part-of-Speech (POS) tagger for the Filipino
+  language, by utilizing the Bidirectional Encoder
+  Representations from Transformers (BERT) model’s
+  capability for contextual analysis of languages. The
+  methodology involved fine-tuning Jiang’s pre-trained
+  Tagalog BERT Base Uncased model for POS tagging,
+  subsequently, resulting in an impressive accuracy of
+  96.4835%, greatly highlighting BERT's ability to capture
+  the syntactic structures and contextual nuances found in
+  the Filipino language. Nevertheless, concerns about
+  potential overfitting arose, limiting the model’s
+  generalizability beyond the specific dataset used for
+  training and evaluation. 
+keywords:
+  - ' Natural Language Processing '
+  - Bidirectional Encoder Representation of Transformers
+  - Part-of-Speech Tagging
+  - Filipino
