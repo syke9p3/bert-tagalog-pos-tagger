@@ -19,7 +19,9 @@ This repository contains the training and testing Python files for fine-tuning [
 - **Finetuned from model**: [Jiang et. al.'s pre-trained bert-tagalog-base-uncased model](https://huggingface.co/GKLMIP/bert-tagalog-base-uncased)
 
 ## HuggingFace Link
-You can try the model in [HuggingFace](https://huggingface.co/syke9p3/bert-tagalog-base-uncased-pos-tagger?text=Naisip+ko+na+kumain+na+lang+tayo+sa+pinakasikat+na+restaurant+sa+Manila)
+You can try the model in [HuggingFace Spaces](https://huggingface.co/spaces/syke9p3/bert-tagalog-base-uncased-pos-tagger?text=Naisip+ko+na+kumain+na+lang+tayo+sa+pinakasikat+na+restaurant+sa+Manila)
+
+Model source code: [HuggingFace](https://huggingface.co/syke9p3/bert-tagalog-base-uncased-pos-tagger)
 
 # Python Libraries
 1. PyTorch
