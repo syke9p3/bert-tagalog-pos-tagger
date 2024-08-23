@@ -14,8 +14,8 @@ This repository contains the training and testing Python files for fine-tuning [
 - **Dataset:** Sagum et. al.'s annotated Tagalog Corpora based on MGNN Tagset convention. This model was trained in 800 sentences and evaluated with 200 sentences.
 - **Finetuned from model**: [Jiang et. al.'s pre-trained bert-tagalog-base-uncased model](https://huggingface.co/GKLMIP/bert-tagalog-base-uncased)
 
-## HuggingFace Link
-You can try the model in [HuggingFace Spaces](https://huggingface.co/spaces/syke9p3/bert-tagalog-base-uncased-pos-tagger?text=Naisip+ko+na+kumain+na+lang+tayo+sa+pinakasikat+na+restaurant+sa+Manila)
+## HuggingFace
+Try the model: [HuggingFace Spaces](https://huggingface.co/spaces/syke9p3/bert-tagalog-base-uncased-pos-tagger?text=Naisip+ko+na+kumain+na+lang+tayo+sa+pinakasikat+na+restaurant+sa+Manila)
 
 Model source code: [HuggingFace](https://huggingface.co/syke9p3/bert-tagalog-base-uncased-pos-tagger)
 
