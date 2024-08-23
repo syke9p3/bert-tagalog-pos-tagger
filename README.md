@@ -3,8 +3,6 @@
 ### Cite this repository
 Saya-ang, K., Hamor, M. G., Gozum, D. J., & Mabansag, R. K. Bidirectional Encoder Representation from Transformer Tagalog Part of Speech Tagger [Computer software]. https://github.com/syke9p3/bert-tagalog-pos-tagger
 
-# Screenshot
-
 ![https://github.com/syke9p3/bert-tagalog-pos-tagger/main/BERTTPOST%20Screenshot.jpg?raw=true](https://github.com/syke9p3/bert-tagalog-pos-tagger/blob/4fda52c3f9c00dfab6308fe725a2ae585304a081/BERTTPOST%20Screenshot.jpg)
 
 # Details
