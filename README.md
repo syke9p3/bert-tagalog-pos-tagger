@@ -5,8 +5,6 @@ Saya-ang, K., Hamor, M. G., Gozum, D. J., & Mabansag, R. K. Bidirectional Encode
 
 ![https://github.com/syke9p3/bert-tagalog-pos-tagger/main/BERTTPOST%20Screenshot.jpg?raw=true](https://github.com/syke9p3/bert-tagalog-pos-tagger/blob/4fda52c3f9c00dfab6308fe725a2ae585304a081/BERTTPOST%20Screenshot.jpg)
 
-# Details
-
 This repository contains the training and testing Python files for fine-tuning [gklmip/bert-tagalog-base-uncased](https://huggingface.co/GKLMIP/bert-tagalog-base-uncased) model for Tagalog part of speech tagging 
 
 - **Developed by:** Saya-ang, Kenth G. (@syke9p3) | Gozum, Denise Julianne S. (@Xenoxianne) | Hamor, Mary Grizelle D. (@mnemoria) | Mabansag, Ria Karen B. (@riavx)
